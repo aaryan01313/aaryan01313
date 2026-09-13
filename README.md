@@ -22,6 +22,7 @@ I enjoy working across the data ecosystem — from building ML models and analyz
 ![RAG](https://img.shields.io/badge/RAG-6B46C1?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
