@@ -42,7 +42,7 @@ I enjoy working across the data ecosystem — from building ML models and analyz
 
 - **TIN-Verifier** — Python-based function for TIN verification across **110+ countries**.
 - **Weather Prediction Model** — Ensemble model combining **Random Forest and XGBoost** for weather prediction.
-- **DocScraper-AI** — Document extraction tool built with **Playwright**, designed to extract documents from websites without relying on APIs.
+- **DocScrape-AI** — AI-powered web scraper using **BeautifulSoup, Playwright, and Groq** to extract, summarize, and generate PDF reports.
 - **Portfolio** — Personal portfolio website showcasing my projects and skills.
 
 ## 💻 Problem Solving
